@@ -96,3 +96,13 @@ This repository makes liberal use of code from:
 - [nnUNet](https://github.com/MIC-DKFZ/nnUNet) 
 - [nnFormer](https://github.com/282857341/nnFormer)
 - [UNETR++](https://github.com/Amshaker/unetr_plus_plus)
+
+## Citation
+
+@article{xie2024sscformer,  
+  title={SSCFormer: Revisiting ConvNet-Transformer Hybrid Framework from Scale-Wise and Spatial-Channel-Aware Perspectives for Volumetric Medical Image Segmentation},  
+  author={Xie, Qinlan and Chen, Yong and Liu, Shenglin and Lu, Xuesong},  
+  journal={IEEE Journal of Biomedical and Health Informatics},  
+  year={2024},  
+  publisher={IEEE}  
+}
